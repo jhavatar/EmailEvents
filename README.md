@@ -1,4 +1,4 @@
-# EmailTickets
+# EmailEvents
 Email campaign to mail a list of events to a customer.
 
 ## Links:
